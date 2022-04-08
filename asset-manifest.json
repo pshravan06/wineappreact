@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wineappreact/static/css/main.2a641681.css",
+    "main.js": "/wineappreact/static/js/main.d1e6ffba.js",
+    "static/js/787.6b97c9f0.chunk.js": "/wineappreact/static/js/787.6b97c9f0.chunk.js",
+    "index.html": "/wineappreact/index.html",
+    "main.2a641681.css.map": "/wineappreact/static/css/main.2a641681.css.map",
+    "main.d1e6ffba.js.map": "/wineappreact/static/js/main.d1e6ffba.js.map",
+    "787.6b97c9f0.chunk.js.map": "/wineappreact/static/js/787.6b97c9f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a641681.css",
+    "static/js/main.d1e6ffba.js"
+  ]
+}
