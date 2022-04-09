@@ -39,7 +39,7 @@ whiteWines : [
 ]
 
 }
-//loads table at start
+//loads table at start of app
   useEffect (() =>{
     const fetchWines = async () =>{
       try{
