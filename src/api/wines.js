@@ -1,5 +1,5 @@
 import axios from "axios";
 
 export default axios.create({
-    baseURL: 'https://pshravan06.github.io/wineappreact/'
+    baseURL: 'https://github.com/pshravan06/wineappreact/blob/main/data/DATA1.json'
 });
