@@ -43,7 +43,7 @@ whiteWines : [
   useEffect (() =>{
     const fetchWines = async () =>{
       try{
-        const response = await api.get('https://github.com/pshravan06/wineappreact/blob/main/data/DATA1.json')
+        const response = await api.get('/wines')
         setWines(response.data);
         console.log(response.data);
         console.log(wineData.whiteWines);
