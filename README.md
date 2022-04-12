@@ -2,7 +2,7 @@
 
 
 ## Project Description: 
-SweetOrDry is an app being built for a local liquor with the goal to make it easier for the store's employees to find the perfect bottle of wine for customers. With this app, conversions and customer satisfaction are expected to greatly increase. 
+SweetOrDry is an app being built for a local liquor with the goal to make it easier for the customers to find the perfect bottle of wine for them. With this app, conversions and customer satisfaction are expected to greatly increase. 
 
 ## App Function: 
 Currently, the app can filter the liquor store's inventory by red and white wines. Features being added soon include the ability to
